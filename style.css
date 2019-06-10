@@ -1,13 +1,16 @@
 .navbar-brand {
-    font-size: 40px;   
+    font-size: 60px;   
 }
 
 body {
-    background-image: url(/Users/brandonblanks/Boostrap-Portfolio/assets/images/elizabeth-lies-190771-unsplash.jpg);
-
-font-size: 30px;
-color: navy;
+    font-size: 50px;
+    color: white;
+    background-image: url(https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
+
 
 
 
